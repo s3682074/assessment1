@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Cooper Hawtin's Personal Profile
+## s3682074
+## s3682074@student.rmit.edu.au
 
-You can use the [editor on GitHub](https://github.com/s3682074/assessment1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I’m Cooper Hawtin, a 20 year old Australian IT enthusiast who is on the verge of completing their Associate’s degree in Information Technology. I started studying at RMIT mid-year back in 2017 about 6 months after finishing my Year 12 VCE studies. I can speak fluent English and Italian. Incoming fun fact: I make music! I don’t publish a lot of it, but I enjoy making my own electronic music and homegrown instrumental remakes of popular songs.
 
 ### Markdown
 
