@@ -12,6 +12,8 @@ During that process however, I became intimately fascinated with how computers w
 
 ### Ideal Job
 
+<img src="images\job.png> 
+
 This position is a catch-all position for an IT Administrator. This involves things from virtualization, to technical assistance, infrastructure design and more. This is the kind of position I aim for in the long term. IT Administration is particularly attractive to me because I love helping and teaching people but having a sense of responsibility for my own work at the same time. Not only that, but I don’t like limiting myself. If I’m going to do something professionally, I better know how to do most if not all the work.
 The Skills required for a position like this would be those of someone who has worked in a similar role prior to this. One would need to know how to handle virtualization, infrastructure design, and technical support on a company scale.
 While I may posses a lot of the skills required to hold such a role I do not have nearly enough practical experience in my field let alone the knowledge to scale said skills to a company level.
