@@ -23,14 +23,15 @@ Nearing the end of my degree, the only way I can acquire said skills is to work 
 
 ### Personal Profile
 
-Myers-Briggs: INFJ-T
-Learning style: Visual Learner. Visual: 55% / Auditory: 25% / Tactile: 20%
-Creativity test: 67.97
+- Myers-Briggs: INFJ-T
+- Learning style: Visual Learner. Visual: 55% / Auditory: 25% / Tactile: 20%
+- Creativity test: 67.97
 
 What do these results mean for me? It means:
 -	I’m someone who likes helping others but may not end up helping myself.
 -	I’m a visual learner who likes to see what I’m trying to learn.
 -	According to the creativity test, I’m someone who can handle a large quantity of information and be able to manipulate and manage the relationships between such information.
+
 I believe these results tell me that when working in a team I am most likely to be given some complex tasks while the leadership is left to someone else, and that should someone need help I will happily help them through what they need. When forming a team I should take note of the kind of people I am forming with and the potential clashes of personalities that may not gel well with my own.
 
 ### Project Idea
