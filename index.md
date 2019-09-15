@@ -10,6 +10,13 @@ Now you’re probably wondering where my IT interests lie. Well, to start with I
 
 During that process however, I became intimately fascinated with how computers work. The more I learned the more I wanted to know. So for the next 6 months after Year 12 while I worked full time I did nothing but watch videos about how computers work, how their parts work, how programming works and kept getting sucked in. Eventually I got to the stage where I wanted to officially study IT at University, so I made my way to RMIT. I chose RMIT because their courses best fit what I was wanting to study and worked within my ATAR range. So far I have been getting exactly what I expected to learn while studying here. Networking, programming, website building, computer science, everything!
 
+### Ideal Job
+
+This position is a catch-all position for an IT Administrator. This involves things from virtualization, to technical assistance, infrastructure design and more. This is the kind of position I aim for in the long term. IT Administration is particularly attractive to me because I love helping and teaching people but having a sense of responsibility for my own work at the same time. Not only that, but I don’t like limiting myself. If I’m going to do something professionally, I better know how to do most if not all the work.
+The Skills required for a position like this would be those of someone who has worked in a similar role prior to this. One would need to know how to handle virtualization, infrastructure design, and technical support on a company scale.
+While I may posses a lot of the skills required to hold such a role I do not have nearly enough practical experience in my field let alone the knowledge to scale said skills to a company level.
+Nearing the end of my degree, the only way I can acquire said skills is to work my way to the top. Start with smaller IT jobs to gain real world experience and slowly climb my way up. The best way I can see to getting a lot of real world experience without spending years waiting for a promotion at any one job would be working for a temp agency and being sent around to many different companies and doing contract work for them (which is my current plan).
+
 ```markdown
 Syntax highlighted code block
 
